@@ -7,7 +7,7 @@
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
-View your website at https://m-brooks.github.io/skills-github-pages/
+View your website at https://m-brooks.github.io/skills-github-pages/ - you can also reach this via the Pages sub-tab of the repository's Settings tab.
 
 ## 🚀 Share Your Success!
 
