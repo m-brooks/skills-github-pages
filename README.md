@@ -7,6 +7,8 @@
 
 ### 🌟 You've successfully completed the exercise! 🌟
 
+View your website at https://m-brooks.github.io/skills-github-pages/
+
 ## 🚀 Share Your Success!
 
 **Show off your new skills and inspire others!**
